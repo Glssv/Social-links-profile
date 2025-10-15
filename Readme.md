@@ -19,8 +19,8 @@ O objetivo era criar um perfil de rede social simples, com links clicáveis para
 
 ### 🔗 Links
 
-- **Site ao vivo:** [Clique aqui](https://glssv.github.io/Social-Links-Profile/)  
-- **Repositório no GitHub:** [Clique aqui](https://github.com/Glssv/Social-Links-Profile)
+- **Site ao vivo:** [Clique aqui](https://glssv.github.io/Social-links-profile/)  
+- **Repositório no GitHub:** [Clique aqui](https://github.com/Glssv/Social-links-profile)
 
 ---
 
